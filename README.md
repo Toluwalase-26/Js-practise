@@ -1,0 +1,2 @@
+# Js-practise
+JS assignment
